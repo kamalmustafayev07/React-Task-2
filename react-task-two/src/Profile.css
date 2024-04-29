@@ -1,0 +1,23 @@
+.person-info{
+    border: 1px solid red;
+    padding:30px;
+    border-radius: 10px;
+    color:black;
+    text-align: left;
+}
+
+p:hover{
+    color:blue;
+}
+
+p:last-child:hover{
+    color:green;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+}
